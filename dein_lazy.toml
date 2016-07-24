@@ -1,0 +1,38 @@
+
+[[plugins]]
+repo = 'Shougo/neocomplete.vim'
+on_i = 1
+
+[[plugins]]
+repo='mattn/jedi-vim'
+on_ft='python'
+
+[[plugins]]
+repo='mattn/emmet-vim'
+on_ft='html'
+
+
+
+#ruby コード補完
+repo = 'Shougo/neocomplete.vim'
+on_ft='ruby'
+repo = 'marcus/rsence'
+on_ft='ruby'
+repo = 'supermomonga/neocomplete-rsence.vim'
+on_ft='ruby'
+
+#ruby ref-document
+repo = 'thinca/vim-ref'
+on_ft='ruby'
+repo = 'yuka-t/vim-ref-ri'
+on_ft='ruby'
+
+#jump to method
+repo = 'szw/vim-tags'
+on_ft='ruby'
+
+
+#javascript syntax
+repo = 'jelera/vim-javascript-syntax'
+on_ft = 'javascript'
+
